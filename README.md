@@ -1,15 +1,15 @@
-**About:**
+### **About:**
 
 Vancouver-based new grad Software Engineer with professional experience in backend microservices and APIs, event-driven systems, serverless cloud infrastructure and data pipelines on AWS.
 
 Interested in distributed systems, platform/DevOps tooling, and AI-assisted automation workflows.
 
-**Background:**
+### **Background:**
 - **Samsung Electronics R&D** @ Vancouver, BC
 - **Operto** @ Vancouver, BC
 - **Broadcom** @ Richmond, BC
 
-**Tech Stack:**
+### **Tech Stack:**
 
 | Area | Technologies |
 |---|---|
