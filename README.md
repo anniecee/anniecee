@@ -1,4 +1,5 @@
-Vancouver-based new grad Software Engineer with professional experience in backend microservices and APIs, event-driven systems, and serverless cloud infrastructure and data pipelines on AWS.
+**About:**
+Vancouver-based new grad Software Engineer with professional experience in backend microservices and APIs, event-driven systems, serverless cloud infrastructure and data pipelines on AWS.
 
 Interested in distributed systems, platform/DevOps tooling, and AI-assisted automation workflows.
 
