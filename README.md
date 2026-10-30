@@ -1,6 +1,6 @@
 ### **About:**
 
-Vancouver-based Software Engineer with experience in full-stack development, backend microservices and APIs, event-driven systems, serverless cloud infrastructure and data pipelines on AWS.
+Vancouver-based Software Engineer with experience in full-stack development, backend microservices / APIs, event-driven systems, serverless cloud infrastructure and data pipelines on AWS.
 
 Interested in distributed systems, platform/DevOps tooling, and AI-assisted automation workflows.
 
