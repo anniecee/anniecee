@@ -14,8 +14,8 @@ Interested in platform/DevOps tooling, and AI-assisted automation workflows.
 
 | Area | Technologies |
 |---|---|
-| Backend | Java, Kotlin, Python, C#, JavaScript, TypeScript, PHP, C/C++ · Spring Boot, .NET, Flask, Node.js · REST & GraphQL APIs |
+| Backend | Java, Kotlin, Python, C#, JavaScript, TypeScript, PHP, C/C++, Coldfusion · Spring Boot, .NET, Flask, Node.js · REST & GraphQL APIs |
 | Cloud & Infrastructure | AWS (Lambda, DynamoDB, S3, API Gateway, Cognito, OpenSearch, IAM, Cloudwatch, Aurora, Athena), Azure, Docker, Kafka, ArgoCD, GitHub |
 | DevOps & Automation | GitHub Actions CI/CD, Bash/Shell, Linux/Unix, Prefect, OpenAPI/Swagger, Postman |
-| Frontend | TypeScript, JavaScript, React, Coldfusion, Material UI, Bootstrap, Jinja, HTML, CSS |
+| Frontend | TypeScript, JavaScript, React, Material UI, Bootstrap, Jinja, HTML, CSS |
 | Database & Testing | SQL, PostgreSQL, SQLite · NoSQL, MongoDB, DynamoDB · JUnit, Mockito, MockK |
