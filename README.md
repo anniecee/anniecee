@@ -18,4 +18,5 @@ Interested in platform/DevOps tooling, and AI-assisted automation workflows.
 | Cloud & Infrastructure | AWS (Lambda, DynamoDB, S3, API Gateway, Cognito, OpenSearch, IAM, Cloudwatch, Aurora, Athena), Azure, Docker, Kafka, ArgoCD, GitHub |
 | DevOps & Automation | GitHub Actions CI/CD, Bash/Shell, Linux/Unix, Prefect, OpenAPI/Swagger, Postman |
 | Frontend | TypeScript, JavaScript, React, Material UI, Bootstrap, Jinja, HTML, CSS |
-| Database & Testing | SQL, PostgreSQL, SQLite · NoSQL, MongoDB, DynamoDB · JUnit, Mockito, MockK |
+| Database & Testing | SQL, PostgreSQL, SQLite, SQL Server · NoSQL, MongoDB, DynamoDB |
+| Testing | JUnit, Mockito, MockK, Chai, Jest, Playwright |
