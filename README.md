@@ -2,7 +2,7 @@
 
 Vancouver-based Software Engineer with experience in full-stack development, with backend focus. 
 
-Familiar domains: identity & access management, third-party integration, cloud infrastructure, data systems & security.
+Familiar domains: identity & access management, organization & multi-tenant management, third-party integration, cloud infrastructure, data systems & security.
 Interested in platform/DevOps tooling, and AI-assisted automation workflows.
 
 ### **Background:**
