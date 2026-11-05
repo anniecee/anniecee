@@ -9,7 +9,7 @@ Familiar domains:
 - Cloud infrastructure
 - Data systems & security
 
-Interested in platform/DevOps tooling, and AI-assisted automation workflows.
+Interested in platform/DevOps tooling + AI-assisted automation workflows.
 
 ### **Background:**
 - **Samsung Electronics R&D** @ Vancouver, BC
